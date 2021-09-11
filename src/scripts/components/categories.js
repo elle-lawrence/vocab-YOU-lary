@@ -1,5 +1,3 @@
-// import { clearDom } from '../helpers/clearDom';
-
 import { clearDom } from '../helpers/clearDom';
 
 const showCategory = (array) => {

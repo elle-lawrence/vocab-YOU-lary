@@ -9,7 +9,6 @@ const dotenv = require('dotenv').config({path: __dirname + '/.env'});
 
 module.exports = {
   entry: './src/scripts/main.js',
-  devtool: "source-map", 
   plugins: [
     new HtmlWebPackPlugin({
       hash: true,

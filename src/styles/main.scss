@@ -3,8 +3,67 @@
 
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: #D1D4C9;
+  color: rgb(61, 55, 66);
   text-align: center;
   margin-top: 100px;
+}
+
+.btn-css {
+  margin-left: 20px;
+}
+
+.form-check-input{
+  margin: 5px;
+}
+
+.form-title {
+  padding-bottom: 30px;
+}
+
+.form-css {
+  margin: 10em;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+  background-color: #556E53;
+  border-radius: 20px;
+}
+
+.form-check{
+  padding-left: 19em;
+  padding-right: 21em;
+}
+
+.submit-btn {
+  margin-top: 1em;
+}
+
+#store {
+  width: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+
+  .card-css {
+    width: 300px;
+    margin: 5px;
+  }
+}
+
+#category-div {
+  width: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+
+  .card-css {
+    width: 150px;
+    margin: 5px;
+  }
 }

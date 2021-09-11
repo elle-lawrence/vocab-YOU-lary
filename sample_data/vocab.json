@@ -1,0 +1,51 @@
+{
+    "-MjHhzxymueP4yQyb2Qk": {
+        "firebaseKey": "-MjHhzxymueP4yQyb2Qk",
+        "term": "Asynchronous",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "Code is asynchronous when you initiate something, forget about it, and when the result is ready you get it back without having to wait for it. The typical example is an AJAX call, which might take even seconds and in the meantime you complete other stuff, and when the response is ready, the callback function gets called. Promises and async/await are the modern way to handle async.",
+        "user_id": "1",
+        "favorite": true
+    },
+    "-MjHiEG1WUj6AATIfKM-": {
+        "firebaseKey": "-MjHiEG1WUj6AATIfKM-",
+        "term": "Block",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "In JavaScript a block is delimited curly braces ({}). An if statement contains a block, a for loop contains a block.",
+        "user_id": "1",
+        "favorite": true
+    },
+    "-MjHiMRbDWmeuARkVsOU": {
+        "firebaseKey": "-MjHiMRbDWmeuARkVsOU",
+        "term": "Callback",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "A callback is a function that’s invoked when something happens. A click event associated to an element has a callback function that’s invoked when the user clicks the element. A fetch request has a callback that’s called when the resource is downloaded.",
+        "user_id": "2",
+        "favorite": true
+    },
+    "-MjHip2J6KaN7ggkM9QY": {
+        "firebaseKey": "-MjHip2J6KaN7ggkM9QY",
+        "term": "API",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "An API (Application Programming Interface) is a set of features and rules that exist inside a software program (the application) enabling interaction with it through software - as opposed to a human user interface. The API can be seen as a simple contract (the interface) between the application offering it and other items, such as third party software or hardware.",
+        "user_id": "1",
+        "favorite": true
+    },
+    "-MjHiztNdaMQhpo8JlAh": {
+        "firebaseKey": "-MjHiztNdaMQhpo8JlAh",
+        "term": "Scope",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "Scope is, referred to a variable, in what portion of a program that variable is visible. let and const have block scoping, which determines a differnet scope from values defined using var, which have function scoping.",
+        "user_id": "2",
+        "favorite": false
+    },
+    "-MjHj7JVHfGd6y78A6qB": {
+        "firebaseKey": "-MjHj7JVHfGd6y78A6qB",
+        "term": "Strict mode",
+        "category": "-MjKN6I9tWiCXt07E9Yp",
+        "definition": "Strict mode is an ECMAScript 5.1 new feature, which causes the JavaScript runtime to catch more errors, but it helps you improve the JavaScript code by denying undeclared variables and other things that might cause overlooked issues like duplicated object properties and other subtle things. Hint: use it. The alternative is “sloppy mode” which is not a good thing even looking at the name we gave it.",
+        "user_id": "1",
+        "favorite": false
+    }
+
+}
